@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yasith Reshan\\source\\repos\\DiceGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCE6155-9671-4AC9-BD45-633E682F9CFF}|DiceGame\\DiceGame.csproj|c:\\users\\yasith reshan\\source\\repos\\dicegame\\dicegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCE6155-9671-4AC9-BD45-633E682F9CFF}|DiceGame\\DiceGame.csproj|solutionrelative:dicegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yasith Reshan\\source\\repos\\DiceGame\\DiceGame\\Program.cs",
+              "RelativeDocumentMoniker": "DiceGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Yasith Reshan\\source\\repos\\DiceGame\\DiceGame\\Program.cs",
+              "RelativeToolTip": "DiceGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:41:52.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
